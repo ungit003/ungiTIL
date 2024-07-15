@@ -2,7 +2,7 @@
 
 - 월요일은 평가가 있어서 라이브 강의 시간이 변동 될 수 있음
 
-![강의1](https://file.notion.so/f/f/9b719315-a3f7-4877-b15e-e2efe24e1986/6f86a676-ac73-4cac-9b0c-64424f1db902/df3751e9-d9fb-4a94-a9af-eda557391e55.png?id=a6508bb9-b7c3-4c62-af0a-406e72ca94d0&table=block&spaceId=9b719315-a3f7-4877-b15e-e2efe24e1986&expirationTimestamp=1721174400000&signature=XsGFjIl6ZtlpzdCwQu9bosPJ68QdvSz1preSh3LM2Eg&downloadName=Untitled.png)
+(https://file.notion.so/f/f/9b719315-a3f7-4877-b15e-e2efe24e1986/6f86a676-ac73-4cac-9b0c-64424f1db902/df3751e9-d9fb-4a94-a9af-eda557391e55.png?id=a6508bb9-b7c3-4c62-af0a-406e72ca94d0&table=block&spaceId=9b719315-a3f7-4877-b15e-e2efe24e1986&expirationTimestamp=1721174400000&signature=XsGFjIl6ZtlpzdCwQu9bosPJ68QdvSz1preSh3LM2Eg&downloadName=Untitled.png)
 
 - 금요일은 일주일 동안 배운 것 프로젝트 or 심화 강의 (저 사람 아님)
 - 금요일은 시험 범위 아님
@@ -50,9 +50,9 @@ https://peps.python.org/pep-0008/
 
 ### 마무리.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b719315-a3f7-4877-b15e-e2efe24e1986/e89d5e06-09b7-4dab-81f2-e41cdbbf94c1/Untitled.png)
+https://file.notion.so/f/f/9b719315-a3f7-4877-b15e-e2efe24e1986/e89d5e06-09b7-4dab-81f2-e41cdbbf94c1/Untitled.png?id=f330dfd0-864d-4d1c-ab50-212b31f5d6b8&table=block&spaceId=9b719315-a3f7-4877-b15e-e2efe24e1986&expirationTimestamp=1721174400000&signature=NZBrj6VlBN877uTP6QB2I4_rwkbzd-mEmi-w1E98qt8&downloadName=Untitled.png
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b719315-a3f7-4877-b15e-e2efe24e1986/b2b9bc04-7b36-4196-84b2-0bc8be55f4f5/Untitled.png)
+https://file.notion.so/f/f/9b719315-a3f7-4877-b15e-e2efe24e1986/b2b9bc04-7b36-4196-84b2-0bc8be55f4f5/Untitled.png?id=c0f32ce2-15ed-4e81-abd9-93be46601d95&table=block&spaceId=9b719315-a3f7-4877-b15e-e2efe24e1986&expirationTimestamp=1721174400000&signature=SjVnat08llgL_1nwAc-r3qwXYKNZdEz87idMYHGE9ls&downloadName=Untitled.png
 
 ### 11 : 10 ~ 12 : 50
 
