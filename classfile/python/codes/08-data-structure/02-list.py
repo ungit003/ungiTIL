@@ -28,6 +28,7 @@ my_list = [1, 2, 3, 4, 5]
 items1 = my_list.pop()
 items2 = my_list.pop(0)
 print(items1) # 5
+print(my_list.pop())
 print(items2) # 1
 print(my_list) # [2, 3, 4]
 

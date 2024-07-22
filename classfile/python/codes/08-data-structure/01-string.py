@@ -2,6 +2,7 @@
 text = 'banana'
 print(text.find('a'))
 print(text.find('z'))
+print(text.find('na'))
 
 # index
 print(text.index('a'))
@@ -30,7 +31,7 @@ new_text2 = text.replace('world', 'python'[1])
 print(new_text1)
 print(new_text2) # Hello, python!
 
-# strip
+# strip + lstrip, rstrip
 text = '  Hello, world!  '
 new_text= text.strip()
 print(new_text)
