@@ -10,27 +10,27 @@ class Person:
 class Mom(Person):
     gene = 'XX'
 
-    def swim(self):
-        return '엄마가 수영'
+    # def swim(self):
+    #     return '엄마가 수영'
 
 
 class Dad(Person):
     gene = 'XY'
 
-    def walk(self):
+    def swim(self):
         return '아빠가 걷기'
 
 
-class FirstChild:
-    def swim(self):
-        return '첫째가 수영'
+class FirstChild(Mom, Dad):
+
 
     def cry(self):
         return '첫째가 응애'
 
 
 baby1 = FirstChild('아가')
-print(baby1.cry())  # 첫째가 응애
-print(baby1.swim())  # 첫째가 수영
-print(baby1.walk())  # 아빠가 걷기
-# print(baby1.gene)  # ??
+# print(baby1.cry())  # 첫째가 응애
+# print(baby1.swim())  # 첫째가 수영
+# print(baby1.walk())  # 아빠가 걷기
+# # print(baby1.gene)  # ??
+print(baby1.swim())
