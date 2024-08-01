@@ -1,7 +1,7 @@
 T = int(input())
 for tc in range(T):
     sudoku = [list(map(int, input().split())) for _ in range(9)]
-    print(zip(sudoku[0]))
+
     sets = set(range(1, 10))
     count = 1
     for raw in sudoku:
@@ -9,6 +9,8 @@ for tc in range(T):
             count = 0
 
         else:
+            # col = list(zip(*sudoku))
+            # for i in range(9):
             for col in zip(*sudoku):
                 if set(col) != sets:
                     count = 0
@@ -20,7 +22,8 @@ for tc in range(T):
                             for ii in range(3):
                                 for jj in range(3):
                                     thr_by_thr.add(sudoku[i+ii][j+jj])
-                            if len(thr_by_thr) != sets:
+                            if thr_by_thr != sets:
                                 count = 0
+                                break
 
     print(f'#{tc+1}', count)
