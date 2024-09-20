@@ -1,0 +1,10 @@
+﻿{% extends "base.html" %} {% block content %}
+<h1>main page</h1>
+<ul>
+  {% for todo in todo_list %}
+  <li>{{ todo }}</li>
+  {% empty %}
+  <li>할 일이 없습니다</li>
+  {% endfor %}
+</ul>
+{% endblock content %}
