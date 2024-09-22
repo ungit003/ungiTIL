@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>할 일 목록 관리자 사이트</title>
+  </head>
+  <body>
+    <a href="{% url "todos:main" %}">[main]</a>
+    <a href="{% url "todos:create" %}">[create]</a>
+    {% comment %} 이걸 만드는 이유? 모든 html 에서 공통으로 사용할 영역을 여기서
+    작성 ex. bootstrap, CDN~~ 혹은 페이지 전체를 아우르는 theme를 설정할 CSS, JS
+    FILE import nav bar와 같이 모든 페이지에서 다 보여줘야 할 영역 BUT. 이
+    base.html을 상속받으면.. 자기 영역? 공통구역 이외는 어떻게 설정할 것인가? ->
+    BLOCK {% endcomment %} {% block content %} {% comment %} 여기 작성한 내용은
+    각자 서로 다른 고유 영역으로 표기 {% endcomment %} {% endblock content %}
+  </body>
+</html>
