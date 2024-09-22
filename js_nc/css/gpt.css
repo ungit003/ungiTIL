@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('pics/background.jpg'); /* 적절한 배경 이미지 경로로 변경하세요 */
+    background-size: cover; /* 화면을 덮도록 설정 */
+    background-position: center;
+    background-repeat: no-repeat; /* 이미지가 반복되지 않도록 설정 */
+    background-attachment: fixed; /* 스크롤 시 배경이 고정되도록 설정 */
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+}
+
+#clock, #weather, #quote {
+    position: absolute;
+    bottom: 20px;
+}
+
+#clock {
+    right: 20px;
+    font-size: 20px;
+}
+
+#weather {
+    right: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+#quote {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    text-align: right;
+}
+
+#quote span:first-child {
+    font-size: 20px; /* 인용문 텍스트 크기 */
+    display: block;
+}
+
+#quote span:last-child {
+    font-size: 14px; /* 저자 이름 크기 */
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+form {
+    width: 100%;
+    max-width: 800px; /* 최대 폭 제한 */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#todo-form {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#todo-list {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 10px;
+    width: 100%;
+}
+
+#todo-list li {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+}
+
+#todo-list button {
+    background: #b22222; /* 다크 레드 색상 */
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#todo-list button:hover {
+    background: #ff4500; /* 마우스 오버 시 색상 변화 */
+}
+
+.hidden {
+    display: none;
+}
