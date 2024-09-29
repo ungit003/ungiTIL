@@ -23,6 +23,7 @@
 - -   - -         - -   - -
 모든 선의 길이가 1이면 멈춘다. N이 주어졌을 때, 마지막 과정이 끝난 후 결과를 
 """
+
 def cantor(n):
     global ans
     if n == 0:
@@ -34,10 +35,23 @@ def cantor(n):
         cantor(n-1)                     # 오른쪽 부분
 
 
-N = int(input())
-ans = ''
-cantor(N)
-print(ans)
+import sys
+input = sys.stdin.readline
+
+while True:
+    try:
+        N = int(input())
+        ans = ''
+        cantor(N)
+        print(ans)    
+    except EOFError:
+        break
+
+
+# N = int(input())
+# ans = ''
+# cantor(N)
+# print(ans)
 
 
 """이건 되는데 왜 되는지 이해가 안됨."""
