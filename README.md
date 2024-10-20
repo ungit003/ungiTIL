@@ -12,7 +12,7 @@
 
 ## 5. [DB](https://github.com/ungit003/ungiTIL/tree/master/05.DB)
 
-## 6. JS[JS](https://github.com/ungit003/ungiTIL/tree/master/06.JS)
+## 6. [JS](https://github.com/ungit003/ungiTIL/tree/master/06.JS)
 
 ## 7. [Vue](https://github.com/ungit003/ungiTIL/tree/master/07.Vue)
 
