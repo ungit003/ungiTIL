@@ -1,4 +1,4 @@
-# ungTIL in SSAFY
+# TIL in SSAFY
 
 ## +. Summary
 
