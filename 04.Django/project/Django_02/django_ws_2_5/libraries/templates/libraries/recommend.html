@@ -1,0 +1,11 @@
+{% extends "libraries/base.html" %}
+
+{% block content %}
+  <h1>주목할 만한 신간 도서 목록</h1>
+  {% for item in result %}
+      <p style="font-weight: bold; font-size: 15px;">제목 : {{ item.title }}</p>
+      <p style="color: gray; font-size: 10px;">저자 : {{ item.author }}</p>
+    <hr>
+  {% endfor %}
+{% endblock content %}
+

@@ -1,9 +1,0 @@
-﻿{% extends "base.html" %} {% block content %}
-<h1>CREATE PAGE</h1>
-{% comment %}
-<form action="http://127.0.0.1:8000/todos/main/">
-  {% endcomment %} <form action="{% url "todos:main" %}">
-  <input type="text" name="work" />
-  <input type="submit" value="제출" />
-</form>
-{% endblock content %}

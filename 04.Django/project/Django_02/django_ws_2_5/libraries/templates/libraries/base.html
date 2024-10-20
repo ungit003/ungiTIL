@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>도서 조회 시스템</title>
+</head>
+<body>
+    {% comment %} <nav>
+        <button onclick = "location.href = '/' ">Home</button>
+        <button onclick = "location.href = '/libraries/recommend/' ">Recommend</button>
+        <button onclick = "location.href = '/libraries/bestseller/' ">Bestseller</button>
+    </nav> {% endcomment %}
+    <nav>
+        <a href="/" style="text-decoration:None; color: white; background-color: black;">Home</a>
+        <a href="/libraries/recommend/" style="text-decoration:None; color: white; background-color: black">Recommend</a>
+        <a href="/libraries/bestseller/" style="text-decoration:None; color: white; background-color: black">Bestseller</a>
+    </nav>
+    
+{% block content %}
+{% endblock content %}
+</body>
+</html>

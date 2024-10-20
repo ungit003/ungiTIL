@@ -1,0 +1,25 @@
+{% extends "libraries/base.html" %}
+
+{% block content %}
+  <h1>베스트 셀러 목록</h1>
+  {% for item in result %}
+   <div 
+   style="background-color: 
+    {% if forloop.counter <= 3 %} 
+      {% if forloop.counter == 1 %} 
+        red 
+      {% elif forloop.counter == 2 %} 
+        orange 
+      {% else %} 
+        yellow 
+      {% endif %} 
+    {% else %} transparent 
+    {% endif %}; padding: 10px; margin-bottom: 10px;"
+    >
+      <p style="font-weight: bold; font-size: 15px;">제목 : {{ item.title }}</p>
+      <p style="color: gray; font-size: 10px;">저자 : {{ item.author }}</p>
+      <p style="font-size: 13px;">설명 : {{ item.bestDuration }}</p>
+      <hr>
+    </div>
+  {% endfor %}
+{% endblock content %}
