@@ -1,0 +1,654 @@
+[20241007.091708][INFO] Application launched.
+[20241007.091708][INFO] version: 1.1.1
+[20241007.091714][INFO] mode selected: 0
+[20241007.091721][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.091721][INFO] authentication activated.
+[20241007.091721][ERROR] authentication failed.
+[20241007.091729][INFO] mode selected: 2
+[20241007.093315][INFO] Application launched.
+[20241007.093315][INFO] version: 1.1.1
+[20241007.093323][INFO] mode selected: 0
+[20241007.093339][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.093340][INFO] authentication activated.
+[20241007.093340][INFO] authentication succeed.
+[20241007.093341][INFO] entered stage main window.
+[20241007.093341][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.093341][INFO] user authenticated for 1251240
+[20241007.093341][INFO] network socket reset.
+[20241007.093342][INFO] stage selected: 1
+[20241007.093343][INFO] socket opened
+[20241007.093353][INFO] socket closed.
+[20241007.093353][INFO] entered stage main window.
+[20241007.093353][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.093353][INFO] user authenticated for 1251240
+[20241007.093353][INFO] network socket reset.
+[20241007.093355][INFO] Application launched.
+[20241007.093355][INFO] version: 1.1.1
+[20241007.093356][INFO] mode selected: 2
+[20241007.093514][INFO] mode selected: 0
+[20241007.093531][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.093531][INFO] authentication activated.
+[20241007.093531][INFO] authentication succeed.
+[20241007.093532][INFO] entered stage main window.
+[20241007.093532][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.093532][INFO] user authenticated for 1251240
+[20241007.093532][INFO] network socket reset.
+[20241007.093533][INFO] stage selected: 1
+[20241007.093533][INFO] socket opened
+[20241007.093631][INFO] client connected. 0, 1
+[20241007.093709][INFO] socket closed.
+[20241007.093709][INFO] entered stage main window.
+[20241007.093709][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.093709][INFO] user authenticated for 1251240
+[20241007.093709][INFO] network socket reset.
+[20241007.093714][INFO] Application launched.
+[20241007.093714][INFO] version: 1.1.1
+[20241007.093715][INFO] mode selected: 2
+[20241007.093933][INFO] mode selected: 0
+[20241007.093947][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.093947][INFO] authentication activated.
+[20241007.093947][INFO] authentication succeed.
+[20241007.093948][INFO] entered stage main window.
+[20241007.093948][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.093948][INFO] user authenticated for 1251240
+[20241007.093948][INFO] network socket reset.
+[20241007.093950][INFO] stage selected: 1
+[20241007.093950][INFO] socket opened
+[20241007.093958][INFO] client connected. 0, 1
+[20241007.094113][INFO] Stage ended.
+[20241007.094113][INFO] socket closed.
+[20241007.094115][INFO] socket closed.
+[20241007.094115][INFO] entered stage main window.
+[20241007.094115][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.094115][INFO] user authenticated for 1251240
+[20241007.094115][INFO] network socket reset.
+[20241007.094119][INFO] going test selected.
+[20241007.094119][INFO] socket opened
+[20241007.094124][INFO] client connected. 0, 1
+[20241007.094154][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.094154][INFO] Stage ended.
+[20241007.094154][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.094219][INFO.EVAL] stage end.(c1, t1, tu13, s3, c25)
+[20241007.094219][INFO] Stage ended.
+[20241007.094219][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.094255][INFO.EVAL] stage end.(c2, t0, tu14, s2, c20)
+[20241007.094255][INFO] Stage ended.
+[20241007.094255][INFO.EVAL] to move next...(c2, t0, s2)
+[20241007.094342][INFO.EVAL] stage end.(c2, t1, tu14, s2, c20)
+[20241007.094343][INFO] Stage ended.
+[20241007.094343][INFO.EVAL] to move next...(c2, t1, s2)
+[20241007.094500][INFO] Stage ended.
+[20241007.094500][INFO.EVAL] trying to send result...(c3, t0, s0)
+[20241007.094502][INFO] socket closed.
+[20241007.094502][INFO] entered stage main window.
+[20241007.094502][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.094502][INFO] user authenticated for 1251240
+[20241007.094502][INFO] network socket reset.
+[20241007.094506][INFO] going test selected.
+[20241007.094506][INFO] socket opened
+[20241007.094628][INFO] socket closed.
+[20241007.094628][INFO] entered stage main window.
+[20241007.094628][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.094628][INFO] user authenticated for 1251240
+[20241007.094628][INFO] network socket reset.
+[20241007.101646][INFO] going test selected.
+[20241007.101646][INFO] socket opened
+[20241007.101657][INFO] client connected. 0, 1
+[20241007.101728][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.101728][INFO] Stage ended.
+[20241007.101728][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.101745][INFO.EVAL] stage end.(c1, t1, tu14, s3, c25)
+[20241007.101745][INFO] Stage ended.
+[20241007.101745][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.101807][INFO.EVAL] stage end.(c2, t0, tu14, s2, c20)
+[20241007.101807][INFO] Stage ended.
+[20241007.101807][INFO.EVAL] to move next...(c2, t0, s2)
+[20241007.101823][INFO.EVAL] stage end.(c2, t1, tu14, s2, c20)
+[20241007.101823][INFO] Stage ended.
+[20241007.101823][INFO.EVAL] to move next...(c2, t1, s2)
+[20241007.101932][INFO] Stage ended.
+[20241007.101932][INFO.EVAL] trying to send result...(c3, t0, s0)
+[20241007.101941][INFO] socket closed.
+[20241007.101942][INFO] entered stage main window.
+[20241007.101942][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.101942][INFO] user authenticated for 1251240
+[20241007.101942][INFO] network socket reset.
+[20241007.101945][INFO] going test selected.
+[20241007.101945][INFO] socket opened
+[20241007.102012][INFO] client connected. 0, 1
+[20241007.102026][INFO] socket closed.
+[20241007.102026][INFO] entered stage main window.
+[20241007.102026][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.102026][INFO] user authenticated for 1251240
+[20241007.102026][INFO] network socket reset.
+[20241007.102027][INFO] going test selected.
+[20241007.102027][INFO] socket opened
+[20241007.102034][INFO] client connected. 0, 1
+[20241007.102051][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.102052][INFO] Stage ended.
+[20241007.102052][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.102104][INFO.EVAL] stage end.(c1, t1, tu13, s3, c25)
+[20241007.102104][INFO] Stage ended.
+[20241007.102104][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.102132][INFO.EVAL] stage end.(c2, t0, tu14, s2, c20)
+[20241007.102132][INFO] Stage ended.
+[20241007.102132][INFO.EVAL] to move next...(c2, t0, s2)
+[20241007.102149][INFO.EVAL] stage end.(c2, t1, tu14, s2, c20)
+[20241007.102149][INFO] Stage ended.
+[20241007.102149][INFO.EVAL] to move next...(c2, t1, s2)
+[20241007.102805][INFO.EVAL] stage end.(c3, t0, tu24, s2, c20)
+[20241007.102806][INFO] Stage ended.
+[20241007.102806][INFO.EVAL] to move next...(c3, t0, s2)
+[20241007.102855][INFO.EVAL] stage end.(c3, t1, tu19, s3, c25)
+[20241007.102855][INFO] Stage ended.
+[20241007.102855][INFO.EVAL] to move next...(c3, t1, s3)
+[20241007.103015][INFO.EVAL] stage end.(c4, t0, tu23, s2, c20)
+[20241007.103015][INFO] Stage ended.
+[20241007.103015][INFO.EVAL] to move next...(c4, t0, s2)
+[20241007.103107][INFO.EVAL] stage end.(c4, t1, tu21, s3, c25)
+[20241007.103107][INFO] Stage ended.
+[20241007.103107][INFO.EVAL] to move next...(c4, t1, s3)
+[20241007.103128][INFO] Stage ended.
+[20241007.103128][INFO.EVAL] to move next...(c5, t0, s3)
+[20241007.103133][INFO] Stage ended.
+[20241007.103133][INFO.EVAL] trying to send result...(c5, t1, s3)
+[20241007.103135][INFO] socket closed.
+[20241007.103135][INFO] entered stage main window.
+[20241007.103135][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.103135][INFO] user authenticated for 1251240
+[20241007.103135][INFO] network socket reset.
+[20241007.103405][INFO] going test selected.
+[20241007.103405][INFO] socket opened
+[20241007.103414][INFO] client connected. 0, 1
+[20241007.103438][INFO.EVAL] stage end.(c1, t0, tu14, s3, c25)
+[20241007.103438][INFO] Stage ended.
+[20241007.103438][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.103448][INFO.EVAL] stage end.(c1, t1, tu13, s3, c25)
+[20241007.103448][INFO] Stage ended.
+[20241007.103448][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.103516][INFO] socket closed.
+[20241007.103516][INFO] entered stage main window.
+[20241007.103516][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.103516][INFO] user authenticated for 1251240
+[20241007.103516][INFO] network socket reset.
+[20241007.103530][INFO] going test selected.
+[20241007.103530][INFO] socket opened
+[20241007.103543][INFO] client connected. 0, 1
+[20241007.103554][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.103554][INFO] Stage ended.
+[20241007.103554][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.103603][INFO.EVAL] stage end.(c1, t1, tu13, s3, c25)
+[20241007.103603][INFO] Stage ended.
+[20241007.103603][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.103621][INFO.EVAL] stage end.(c2, t0, tu14, s2, c20)
+[20241007.103621][INFO] Stage ended.
+[20241007.103621][INFO.EVAL] to move next...(c2, t0, s2)
+[20241007.103634][INFO.EVAL] stage end.(c2, t1, tu14, s2, c20)
+[20241007.103635][INFO] Stage ended.
+[20241007.103635][INFO.EVAL] to move next...(c2, t1, s2)
+[20241007.103712][INFO.EVAL] stage end.(c3, t0, tu19, s3, c25)
+[20241007.103712][INFO] Stage ended.
+[20241007.103712][INFO.EVAL] to move next...(c3, t0, s3)
+[20241007.103754][INFO.EVAL] stage end.(c3, t1, tu20, s2, c20)
+[20241007.103754][INFO] Stage ended.
+[20241007.103754][INFO.EVAL] to move next...(c3, t1, s2)
+[20241007.103844][INFO.EVAL] stage end.(c4, t0, tu21, s3, c25)
+[20241007.103844][INFO] Stage ended.
+[20241007.103844][INFO.EVAL] to move next...(c4, t0, s3)
+[20241007.103925][INFO.EVAL] stage end.(c4, t1, tu21, s3, c25)
+[20241007.103925][INFO] Stage ended.
+[20241007.103925][INFO.EVAL] to move next...(c4, t1, s3)
+[20241007.104104][INFO.EVAL] stage end.(c5, t0, tu48, s3, c25)
+[20241007.104104][INFO] Stage ended.
+[20241007.104104][INFO.EVAL] to move next...(c5, t0, s3)
+[20241007.104215][INFO.EVAL] stage end.(c5, t1, tu47, s3, c25)
+[20241007.104215][INFO] Stage ended.
+[20241007.104215][INFO.EVAL] trying to send result...(c5, t1, s3)
+[20241007.104218][INFO] socket closed.
+[20241007.104218][INFO] entered stage main window.
+[20241007.104218][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.104218][INFO] user authenticated for 1251240
+[20241007.104218][INFO] network socket reset.
+[20241007.104512][INFO] stage selected: 2
+[20241007.104512][INFO] socket opened
+[20241007.104526][INFO] client connected. 0, 1
+[20241007.104608][INFO] Stage ended.
+[20241007.104608][INFO] socket closed.
+[20241007.104609][INFO] socket closed.
+[20241007.104609][INFO] entered stage main window.
+[20241007.104609][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.104609][INFO] user authenticated for 1251240
+[20241007.104609][INFO] network socket reset.
+[20241007.104610][INFO] stage selected: 3
+[20241007.104610][INFO] socket opened
+[20241007.104622][INFO] client connected. 0, 1
+[20241007.104651][INFO] Stage ended.
+[20241007.104651][INFO] socket closed.
+[20241007.104655][INFO] socket closed.
+[20241007.104655][INFO] entered stage main window.
+[20241007.104655][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.104655][INFO] user authenticated for 1251240
+[20241007.104655][INFO] network socket reset.
+[20241007.104656][INFO] stage selected: 3
+[20241007.104656][INFO] socket opened
+[20241007.104703][INFO] client connected. 0, 1
+[20241007.104814][INFO] socket closed.
+[20241007.104814][INFO] entered stage main window.
+[20241007.104814][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.104814][INFO] user authenticated for 1251240
+[20241007.104814][INFO] network socket reset.
+[20241007.104819][INFO] stage selected: 3
+[20241007.104819][INFO] socket opened
+[20241007.104835][INFO] client connected. 0, 1
+[20241007.104932][INFO] Stage ended.
+[20241007.104932][INFO] socket closed.
+[20241007.104936][INFO] socket closed.
+[20241007.104936][INFO] entered stage main window.
+[20241007.104936][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.104936][INFO] user authenticated for 1251240
+[20241007.104936][INFO] network socket reset.
+[20241007.105615][INFO] going test selected.
+[20241007.105615][INFO] socket opened
+[20241007.105634][INFO] client connected. 0, 1
+[20241007.105644][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.105644][INFO] Stage ended.
+[20241007.105644][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.105655][INFO.EVAL] stage end.(c1, t1, tu13, s3, c25)
+[20241007.105655][INFO] Stage ended.
+[20241007.105655][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.105722][INFO.EVAL] stage end.(c2, t0, tu16, s2, c20)
+[20241007.105722][INFO] Stage ended.
+[20241007.105722][INFO.EVAL] to move next...(c2, t0, s2)
+[20241007.105739][INFO] socket closed.
+[20241007.105739][INFO] entered stage main window.
+[20241007.105739][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.105739][INFO] user authenticated for 1251240
+[20241007.105739][INFO] network socket reset.
+[20241007.105739][INFO] going test selected.
+[20241007.105739][INFO] socket opened
+[20241007.105746][INFO] client connected. 0, 1
+[20241007.105757][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.105757][INFO] Stage ended.
+[20241007.105757][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.105809][INFO.EVAL] stage end.(c1, t1, tu13, s3, c25)
+[20241007.105809][INFO] Stage ended.
+[20241007.105809][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.105825][INFO.EVAL] stage end.(c2, t0, tu13, s3, c25)
+[20241007.105825][INFO] Stage ended.
+[20241007.105825][INFO.EVAL] to move next...(c2, t0, s3)
+[20241007.105834][INFO.EVAL] stage end.(c2, t1, tu13, s3, c25)
+[20241007.105834][INFO] Stage ended.
+[20241007.105834][INFO.EVAL] to move next...(c2, t1, s3)
+[20241007.105915][INFO.EVAL] stage end.(c3, t0, tu19, s3, c25)
+[20241007.105915][INFO] Stage ended.
+[20241007.105915][INFO.EVAL] to move next...(c3, t0, s3)
+[20241007.110002][INFO.EVAL] stage end.(c3, t1, tu20, s2, c20)
+[20241007.110002][INFO] Stage ended.
+[20241007.110002][INFO.EVAL] to move next...(c3, t1, s2)
+[20241007.110053][INFO.EVAL] stage end.(c4, t0, tu21, s3, c25)
+[20241007.110054][INFO] Stage ended.
+[20241007.110054][INFO.EVAL] to move next...(c4, t0, s3)
+[20241007.110132][INFO.EVAL] stage end.(c4, t1, tu21, s3, c25)
+[20241007.110132][INFO] Stage ended.
+[20241007.110132][INFO.EVAL] to move next...(c4, t1, s3)
+[20241007.110247][INFO.EVAL] stage end.(c5, t0, tu46, s3, c25)
+[20241007.110247][INFO] Stage ended.
+[20241007.110247][INFO.EVAL] to move next...(c5, t0, s3)
+[20241007.110305][INFO] Stage ended.
+[20241007.110305][INFO.EVAL] trying to send result...(c5, t1, s3)
+[20241007.110308][INFO] socket closed.
+[20241007.110308][INFO] entered stage main window.
+[20241007.110308][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.110308][INFO] user authenticated for 1251240
+[20241007.110308][INFO] network socket reset.
+[20241007.110310][INFO] going test selected.
+[20241007.110310][INFO] socket opened
+[20241007.110315][INFO] client connected. 0, 1
+[20241007.110328][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.110328][INFO] Stage ended.
+[20241007.110328][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.110334][INFO] socket closed.
+[20241007.110334][INFO] entered stage main window.
+[20241007.110334][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.110334][INFO] user authenticated for 1251240
+[20241007.110334][INFO] network socket reset.
+[20241007.110334][INFO] going test selected.
+[20241007.110335][INFO] socket opened
+[20241007.110344][INFO] client connected. 0, 1
+[20241007.110354][INFO.EVAL] stage end.(c1, t0, tu13, s3, c25)
+[20241007.110354][INFO] Stage ended.
+[20241007.110354][INFO.EVAL] to move next...(c1, t0, s3)
+[20241007.110406][INFO.EVAL] stage end.(c1, t1, tu13, s3, c25)
+[20241007.110406][INFO] Stage ended.
+[20241007.110406][INFO.EVAL] to move next...(c1, t1, s3)
+[20241007.110417][INFO.EVAL] stage end.(c2, t0, tu13, s3, c25)
+[20241007.110417][INFO] Stage ended.
+[20241007.110417][INFO.EVAL] to move next...(c2, t0, s3)
+[20241007.110431][INFO.EVAL] stage end.(c2, t1, tu13, s3, c25)
+[20241007.110431][INFO] Stage ended.
+[20241007.110431][INFO.EVAL] to move next...(c2, t1, s3)
+[20241007.110511][INFO.EVAL] stage end.(c3, t0, tu19, s3, c25)
+[20241007.110511][INFO] Stage ended.
+[20241007.110511][INFO.EVAL] to move next...(c3, t0, s3)
+[20241007.110540][INFO.EVAL] stage end.(c3, t1, tu19, s3, c25)
+[20241007.110540][INFO] Stage ended.
+[20241007.110540][INFO.EVAL] to move next...(c3, t1, s3)
+[20241007.110624][INFO.EVAL] stage end.(c4, t0, tu21, s3, c25)
+[20241007.110624][INFO] Stage ended.
+[20241007.110624][INFO.EVAL] to move next...(c4, t0, s3)
+[20241007.110659][INFO.EVAL] stage end.(c4, t1, tu21, s3, c25)
+[20241007.110659][INFO] Stage ended.
+[20241007.110659][INFO.EVAL] to move next...(c4, t1, s3)
+[20241007.110801][INFO.EVAL] stage end.(c5, t0, tu45, s3, c25)
+[20241007.110801][INFO] Stage ended.
+[20241007.110801][INFO.EVAL] to move next...(c5, t0, s3)
+[20241007.110907][INFO.EVAL] stage end.(c5, t1, tu47, s3, c25)
+[20241007.110907][INFO] Stage ended.
+[20241007.110907][INFO.EVAL] trying to send result...(c5, t1, s3)
+[20241007.110909][INFO] socket closed.
+[20241007.110909][INFO] entered stage main window.
+[20241007.110909][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.110909][INFO] user authenticated for 1251240
+[20241007.110909][INFO] network socket reset.
+[20241007.111716][INFO] Application launched.
+[20241007.111716][INFO] version: 1.1.1
+[20241007.111718][INFO] mode selected: 1
+[20241007.111719][INFO] mode selected: 2
+[20241007.112631][INFO] mode selected: 0
+[20241007.112656][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.112656][INFO] authentication activated.
+[20241007.112657][INFO] authentication succeed.
+[20241007.112657][INFO] entered stage main window.
+[20241007.112657][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.112657][INFO] user authenticated for 1251240
+[20241007.112657][INFO] network socket reset.
+[20241007.112701][INFO] stage selected: 3
+[20241007.112701][INFO] socket opened
+[20241007.112715][INFO] client connected. 0, 1
+[20241007.112723][INFO] Stage ended.
+[20241007.112723][INFO] socket closed.
+[20241007.112939][INFO] socket opened
+[20241007.123910][INFO] client connected. 1, 1
+[20241007.124449][INFO] socket closed.
+[20241007.124449][INFO] entered stage main window.
+[20241007.124449][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.124449][INFO] user authenticated for 1251240
+[20241007.124449][INFO] network socket reset.
+[20241007.124450][INFO] stage selected: 5
+[20241007.124450][INFO] socket opened
+[20241007.124454][INFO] socket closed.
+[20241007.124454][INFO] entered stage main window.
+[20241007.124454][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.124454][INFO] user authenticated for 1251240
+[20241007.124454][INFO] network socket reset.
+[20241007.140912][INFO] stage selected: 4
+[20241007.140912][INFO] socket opened
+[20241007.140919][INFO] socket closed.
+[20241007.140919][INFO] entered stage main window.
+[20241007.140919][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.140919][INFO] user authenticated for 1251240
+[20241007.140919][INFO] network socket reset.
+[20241007.140920][INFO] going test selected.
+[20241007.140921][INFO] socket opened
+[20241007.140922][INFO] socket closed.
+[20241007.140922][INFO] entered stage main window.
+[20241007.140922][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.140922][INFO] user authenticated for 1251240
+[20241007.140922][INFO] network socket reset.
+[20241007.141642][INFO] stage selected: 4
+[20241007.141642][INFO] socket opened
+[20241007.141645][INFO] socket closed.
+[20241007.141645][INFO] entered stage main window.
+[20241007.141645][INFO] stage initialized with STAGE, NONE, STOPPED, 0, 1, 0, CLEAR.
+[20241007.141645][INFO] user authenticated for 1251240
+[20241007.141645][INFO] network socket reset.
+[20241007.141918][INFO] Application launched.
+[20241007.141918][INFO] version: 1.1.1
+[20241007.141919][INFO] mode selected: 0
+[20241007.141919][INFO] mode selected: 1
+[20241007.142008][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.142008][INFO] authentication activated.
+[20241007.142008][INFO] authentication succeed.
+[20241007.142009][INFO] socket opened
+[20241007.142105][INFO] client connected. 0, 1
+[20241007.142105][INFO] client connected. 1, 2
+[20241007.142107][INFO] client connected. 2, 3
+[20241007.142108][INFO] client connected. 3, 4
+[20241007.142109][INFO] client connected. 4, 5
+[20241007.142116][INFO] client connected. 5, 6
+[20241007.142125][INFO] socket closed.
+[20241007.142125][INFO] socket opened
+[20241007.142130][INFO] client connected. 0, 1
+[20241007.142131][INFO] client connected. 1, 2
+[20241007.142133][INFO] client connected. 2, 3
+[20241007.142134][INFO] client connected. 3, 4
+[20241007.142136][INFO] client connected. 4, 5
+[20241007.142137][INFO] client connected. 5, 6
+[20241007.142146][INFO] socket closed.
+[20241007.142152][INFO] socket closed.
+[20241007.142152][INFO] socket opened
+[20241007.142200][INFO] client connected. 0, 1
+[20241007.142201][INFO] client connected. 1, 2
+[20241007.142203][INFO] client connected. 2, 3
+[20241007.142204][INFO] client connected. 3, 4
+[20241007.142205][INFO] client connected. 4, 5
+[20241007.142206][INFO] client connected. 5, 6
+[20241007.142220][INFO] socket closed.
+[20241007.142223][INFO] socket closed.
+[20241007.142223][INFO] socket opened
+[20241007.142307][INFO] client connected. 0, 1
+[20241007.142310][INFO] client connected. 1, 2
+[20241007.142311][INFO] client connected. 2, 3
+[20241007.142312][INFO] client connected. 3, 4
+[20241007.142313][INFO] client connected. 4, 5
+[20241007.142314][INFO] client connected. 5, 6
+[20241007.142324][INFO] socket closed.
+[20241007.142632][INFO] socket closed.
+[20241007.142632][INFO] socket opened
+[20241007.144124][INFO] socket closed.
+[20241007.144132][INFO] Application launched.
+[20241007.144132][INFO] version: 1.1.1
+[20241007.144132][INFO] mode selected: 2
+[20241007.145006][INFO] mode selected: 1
+[20241007.145033][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.145033][INFO] authentication activated.
+[20241007.145034][INFO] authentication succeed.
+[20241007.145035][INFO] socket opened
+[20241007.145047][INFO] client connected. 0, 1
+[20241007.145048][INFO] client connected. 1, 2
+[20241007.145050][INFO] client connected. 2, 3
+[20241007.145051][INFO] client connected. 3, 4
+[20241007.145052][INFO] client connected. 4, 5
+[20241007.145053][INFO] client connected. 5, 6
+[20241007.145105][INFO] socket closed.
+[20241007.145111][INFO] socket closed.
+[20241007.145111][INFO] socket opened
+[20241007.145127][INFO] client connected. 0, 1
+[20241007.145128][INFO] client connected. 1, 2
+[20241007.145129][INFO] client connected. 2, 3
+[20241007.145130][INFO] client connected. 3, 4
+[20241007.145130][INFO] client connected. 4, 5
+[20241007.145131][INFO] client connected. 5, 6
+[20241007.150529][INFO] socket closed.
+[20241007.150529][INFO] socket opened
+[20241007.150535][INFO] client connected. 0, 1
+[20241007.150536][INFO] client connected. 1, 2
+[20241007.150537][INFO] client connected. 2, 3
+[20241007.150538][INFO] client connected. 3, 4
+[20241007.150539][INFO] client connected. 4, 5
+[20241007.150540][INFO] client connected. 5, 6
+[20241007.151137][INFO] socket closed.
+[20241007.151137][INFO] socket opened
+[20241007.151143][INFO] client connected. 0, 1
+[20241007.151145][INFO] client connected. 1, 2
+[20241007.151146][INFO] client connected. 2, 3
+[20241007.151146][INFO] client connected. 3, 4
+[20241007.151147][INFO] client connected. 4, 5
+[20241007.151148][INFO] client connected. 5, 6
+[20241007.151158][INFO] socket closed.
+[20241007.151225][INFO] socket closed.
+[20241007.151225][INFO] socket opened
+[20241007.151229][INFO] client connected. 0, 1
+[20241007.151230][INFO] client connected. 1, 2
+[20241007.151231][INFO] client connected. 2, 3
+[20241007.151232][INFO] client connected. 3, 4
+[20241007.151232][INFO] client connected. 4, 5
+[20241007.151233][INFO] client connected. 5, 6
+[20241007.151244][INFO] socket closed.
+[20241007.151245][INFO] socket closed.
+[20241007.151245][INFO] socket opened
+[20241007.151438][INFO] client connected. 0, 1
+[20241007.151439][INFO] client connected. 1, 2
+[20241007.151439][INFO] client connected. 2, 3
+[20241007.151440][INFO] client connected. 3, 4
+[20241007.151441][INFO] client connected. 4, 5
+[20241007.151442][INFO] client connected. 5, 6
+[20241007.151603][INFO] socket closed.
+[20241007.151603][INFO] socket opened
+[20241007.151618][INFO] client connected. 0, 1
+[20241007.151621][INFO] client connected. 1, 2
+[20241007.151624][INFO] client connected. 2, 3
+[20241007.151627][INFO] client connected. 3, 4
+[20241007.151632][INFO] socket closed.
+[20241007.151632][INFO] Application launched.
+[20241007.151632][INFO] version: 1.1.1
+[20241007.151633][INFO] mode selected: 1
+[20241007.151652][INFO] trying to authenticate with PT00015851, YNIN-FECP-OYDT-XNAR.
+[20241007.151652][INFO] authentication activated.
+[20241007.151652][INFO] authentication succeed.
+[20241007.151654][INFO] socket opened
+[20241007.151724][INFO] client connected. 0, 1
+[20241007.151726][INFO] client connected. 1, 2
+[20241007.151728][INFO] client connected. 2, 3
+[20241007.151729][INFO] client connected. 3, 4
+[20241007.151730][INFO] client connected. 4, 5
+[20241007.151731][INFO] client connected. 5, 6
+[20241007.151815][INFO] socket closed.
+[20241007.153650][INFO] socket closed.
+[20241007.153650][INFO] socket opened
+[20241007.153700][INFO] client connected. 0, 1
+[20241007.153703][INFO] client connected. 1, 2
+[20241007.153704][INFO] client connected. 2, 3
+[20241007.153706][INFO] client connected. 3, 4
+[20241007.153707][INFO] client connected. 4, 5
+[20241007.153708][INFO] client connected. 5, 6
+[20241007.153752][INFO] socket closed.
+[20241007.154010][INFO] socket closed.
+[20241007.154010][INFO] socket opened
+[20241007.154014][INFO] client connected. 0, 1
+[20241007.154015][INFO] client connected. 1, 2
+[20241007.154016][INFO] client connected. 2, 3
+[20241007.154017][INFO] client connected. 3, 4
+[20241007.154018][INFO] client connected. 4, 5
+[20241007.154019][INFO] client connected. 5, 6
+[20241007.154103][INFO] socket closed.
+[20241007.154820][INFO] socket closed.
+[20241007.154820][INFO] socket opened
+[20241007.154825][INFO] client connected. 0, 1
+[20241007.154826][INFO] client connected. 1, 2
+[20241007.154828][INFO] client connected. 2, 3
+[20241007.154829][INFO] client connected. 3, 4
+[20241007.154830][INFO] client connected. 4, 5
+[20241007.154831][INFO] client connected. 5, 6
+[20241007.154915][INFO] socket closed.
+[20241007.154924][INFO] socket closed.
+[20241007.154924][INFO] socket opened
+[20241007.155026][INFO] client connected. 0, 1
+[20241007.155027][INFO] client connected. 1, 2
+[20241007.155029][INFO] client connected. 2, 3
+[20241007.155029][INFO] client connected. 3, 4
+[20241007.155030][INFO] client connected. 4, 5
+[20241007.155031][INFO] client connected. 5, 6
+[20241007.155116][INFO] socket closed.
+[20241007.155411][INFO] socket closed.
+[20241007.155411][INFO] socket opened
+[20241007.155414][INFO] client connected. 0, 1
+[20241007.155416][INFO] client connected. 1, 2
+[20241007.155417][INFO] client connected. 2, 3
+[20241007.155418][INFO] client connected. 3, 4
+[20241007.155419][INFO] client connected. 4, 5
+[20241007.155420][INFO] client connected. 5, 6
+[20241007.155739][INFO] socket closed.
+[20241007.155740][INFO] socket opened
+[20241007.155753][INFO] client connected. 0, 1
+[20241007.155754][INFO] client connected. 1, 2
+[20241007.155755][INFO] client connected. 2, 3
+[20241007.155756][INFO] client connected. 3, 4
+[20241007.155757][INFO] client connected. 4, 5
+[20241007.155758][INFO] client connected. 5, 6
+[20241007.155807][INFO] socket closed.
+[20241007.155918][INFO] socket closed.
+[20241007.155918][INFO] socket opened
+[20241007.155931][INFO] client connected. 0, 1
+[20241007.155932][INFO] client connected. 1, 2
+[20241007.155932][INFO] client connected. 2, 3
+[20241007.155934][INFO] client connected. 3, 4
+[20241007.155934][INFO] client connected. 4, 5
+[20241007.155936][INFO] client connected. 5, 6
+[20241007.155944][INFO] socket closed.
+[20241007.160025][INFO] socket closed.
+[20241007.160025][INFO] socket opened
+[20241007.160031][INFO] client connected. 0, 1
+[20241007.160031][INFO] client connected. 1, 2
+[20241007.160032][INFO] client connected. 2, 3
+[20241007.160033][INFO] client connected. 3, 4
+[20241007.160034][INFO] client connected. 4, 5
+[20241007.160034][INFO] client connected. 5, 6
+[20241007.160045][INFO] socket closed.
+[20241007.161120][INFO] socket closed.
+[20241007.161120][INFO] socket opened
+[20241007.161201][INFO] client connected. 0, 1
+[20241007.161201][INFO] client connected. 1, 2
+[20241007.161202][INFO] client connected. 2, 3
+[20241007.161203][INFO] client connected. 3, 4
+[20241007.161204][INFO] client connected. 4, 5
+[20241007.161204][INFO] client connected. 5, 6
+[20241007.161208][INFO] socket closed.
+[20241007.161336][INFO] socket closed.
+[20241007.161336][INFO] socket opened
+[20241007.162056][INFO] client connected. 0, 1
+[20241007.162057][INFO] client connected. 1, 2
+[20241007.162058][INFO] client connected. 2, 3
+[20241007.162058][INFO] client connected. 3, 4
+[20241007.162100][INFO] client connected. 4, 5
+[20241007.162100][INFO] client connected. 5, 6
+[20241007.162106][INFO] socket closed.
+[20241007.162336][INFO] socket closed.
+[20241007.162336][INFO] socket opened
+[20241007.162426][INFO] client connected. 0, 1
+[20241007.162429][INFO] client connected. 1, 2
+[20241007.162430][INFO] client connected. 2, 3
+[20241007.162431][INFO] client connected. 3, 4
+[20241007.162432][INFO] client connected. 4, 5
+[20241007.162433][INFO] client connected. 5, 6
+[20241007.162517][INFO] socket closed.
+[20241007.164438][INFO] socket closed.
+[20241007.164438][INFO] socket opened
+[20241007.164543][INFO] client connected. 0, 1
+[20241007.164544][INFO] client connected. 1, 2
+[20241007.164548][INFO] client connected. 2, 3
+[20241007.164549][INFO] client connected. 3, 4
+[20241007.164552][INFO] client connected. 4, 5
+[20241007.164552][INFO] client connected. 5, 6
+[20241007.164557][INFO] socket closed.
+[20241007.164737][INFO] socket closed.
+[20241007.164737][INFO] socket opened
+[20241007.164744][INFO] client connected. 0, 1
+[20241007.164746][INFO] client connected. 1, 2
+[20241007.164747][INFO] client connected. 2, 3
+[20241007.164750][INFO] client connected. 3, 4
+[20241007.164751][INFO] client connected. 4, 5
+[20241007.164752][INFO] client connected. 5, 6
+[20241007.164757][INFO] socket closed.
+[20241007.165543][INFO] socket closed.
+[20241007.165543][INFO] socket opened
+[20241007.165608][INFO] client connected. 0, 1
+[20241007.165611][INFO] client connected. 1, 2
+[20241007.165613][INFO] client connected. 2, 3
+[20241007.165616][INFO] client connected. 3, 4
+[20241007.165619][INFO] client connected. 4, 5
+[20241007.165620][INFO] client connected. 5, 6
+[20241007.165633][INFO] socket closed.
+[20241007.165638][INFO] socket closed.
+[20241007.165638][INFO] socket opened
+[20241007.175136][INFO] socket closed.
