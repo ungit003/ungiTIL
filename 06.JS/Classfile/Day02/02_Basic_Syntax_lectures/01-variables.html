@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <script>
+    // 선언은 했지만, 값을 할당할 마음이 없다면
+    // null을 집어넣자.
+    let testNumber
+    // let testNumber = null
+  //   testNumber = 0
+  // //      ↓     할당    ↓
+  //   const testNumber = 0
+  // // ↑    선언       ↑
+  // // ↑       초기화     ↑ 
+  
+
+    // 할당
+    // 선언
+    // 초기화 
+
+    // var 
+    // 재할당 가능, 재선언 가능, function scope
+
+    // let
+    let number = 10
+    // scope = block s
+  
+    if (true) {
+      // {} block 내부
+      let number = 20
+    }
+    console.log(number)
+    // 재할당 가능
+    // number = 20
+    // console.log(number)
+    
+    // 재선언 불가능
+    // let number = 10
+
+    // let은 선언시 초기값이 없다면 undefined가 초기화시에 할당
+    let ssafy
+    console.log(ssafy)
+    
+
+    // dictionary
+    // list
+
+    // const
+    // const numberTwo = 10
+    
+    // 재할당 불가능
+    // numberTwo = 20
+    // console.log(numberTwo)
+    
+    // 재선언 불가능
+    // const numberTwo = 20
+
+    // const는 선언시 반드시 초기값이 필요
+    // const myNumber
+
+    const myNumber = [1, 2, 3, 4]
+    myNumber[0] = 100
+    console.log(myNumber)
+
+  </script>
+</body>
+
+</html>
