@@ -1,7 +1,9 @@
 # TIL in SSAFY
 
 ## +. [Summary](https://github.com/ungit003/ungiTIL/tree/master/%2B%2B.Summary)
+
 ## 0. [StartCamp](https://github.com/ungit003/ungiTIL/tree/master/00.Startcamp)
+
 ## 1. [Python](https://github.com/ungit003/ungiTIL/tree/master/01.Python)
 
 ## 2. [Web](https://github.com/ungit003/ungiTIL/tree/master/02.Web)
@@ -13,6 +15,8 @@
 ## 5. [DB](https://github.com/ungit003/ungiTIL/tree/master/05.DB)
 
 ## 6. [JS](https://github.com/ungit003/ungiTIL/tree/master/06.JS)
+
+### [Week 1.(24/10/21 ~ 24/10/25)](https://github.com/ungit003/ungiTIL/tree/master/06.JS#week-1-241021---241025)
 
 ## 7. [Vue](https://github.com/ungit003/ungiTIL/tree/master/07.Vue)
 
