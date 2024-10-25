@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+    const names = ['Alice', 'Bella', 'Cathy']
+    // this를 쓸 때 '꼭' 조심해서 쓸 것.
+    // 일반 함수 표기
+    names.forEach(function (name) {
+      console.log(name)
+    })
+
+    // 화살표 함수 표기
+    names.forEach((name) => {
+      console.log(name)
+    })
+
+    // 활용
+    names.forEach((name, index, array) => {
+      console.log(index)
+    }
+    </script>
+  </body>
+</html>

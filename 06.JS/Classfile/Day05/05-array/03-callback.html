@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+    // 1
+    const numbers1 = [1, 2, 3]
+    numbers.forEach(function (number) { //numbers의 원소를 하나씩 불러와서 number라고 부름.
+      console.log(number)
+    })
+
+    // 2
+    const numbers2 = [1, 2, 3]
+    const callBackFunc = function (number) { // 함수를 외부에서 정의하고 불러와도 됨.
+      console.log(number)
+    }
+
+    numbers.forEach(callBackFunc)
+
+    </script>
+  </body>
+</html>

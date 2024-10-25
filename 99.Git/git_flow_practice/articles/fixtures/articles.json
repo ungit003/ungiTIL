@@ -1,0 +1,9 @@
+[
+{
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+        "title": "test"
+    }
+}
+]
