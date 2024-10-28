@@ -17,6 +17,7 @@
 ## 6. [JS](https://github.com/ungit003/ungiTIL/tree/master/06.JS)
 
 ### [Week 1.(24/10/21 ~ 24/10/25)](https://github.com/ungit003/ungiTIL/tree/master/06.JS#week-1-241021---241025)
+### [Week 2.(24/10/28 ~ 24/10/30)](https://github.com/ungit003/ungiTIL/tree/master/06.JS#week-1-241028---241030)
 
 ## 7. [Vue](https://github.com/ungit003/ungiTIL/tree/master/07.Vue)
 
