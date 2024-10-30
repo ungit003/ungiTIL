@@ -18,4 +18,4 @@
 
 ### [07 Asynchronous JavaScript](https://github.com/ungit003/ungiTIL/blob/master/%2B%2B.Summary/2410/summary_1029.ipynb)
 
-### [08]
+### [08 Ajax with Django](https://github.com/ungit003/ungiTIL/blob/master/%2B%2B.Summary/2410/summary_1030.ipynb)
