@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+      <!-- 문법이 장고랑 비슷 -->
+      <h1>{{ message }}</h1>
+      <button v-on:click="countNumber++">카운트 넘버: {{ countNumber }}</button>
+    </div>
+    <!-- CDN 활용하기 -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script>
+    // 구조, 분해, 할당 이용
+    const { createApp, ref } = Vue
+
+    const app = createApp({
+      setup() {
+        const message = ref('Hello vue!')
+        const countNumber = ref(0)
+        return {
+          // 단축, 리턴에 적지 않으면 동작 안함.
+          message,   // message: message
+          countNumber
+        }
+      }
+    })
+
+    // 앱에 연결하기
+    app.mount('#app')
+    </script>
+  </body>
+</html>
