@@ -22,6 +22,7 @@
 ## 7. [Vue](https://github.com/ungit003/ungiTIL/tree/master/07.Vue)
 
 ### [Week 1.(24/10/31)](https://github.com/ungit003/ungiTIL/tree/master/07.Vue#week-1-241031)
+### [Week 2.(24/11/04 ~ 24/11/07)](https://github.com/ungit003/ungiTIL/blob/master/07.Vue/README.md#week-2-241104)
 
 ## 8. [PJT](https://github.com/ungit003/ungiTIL/tree/master/08.PJT)
 
