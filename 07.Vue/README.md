@@ -7,3 +7,4 @@
 ## Week 2. (24/11/04)
 
 ### [02 Basic Syntax 01](https://github.com/ungit003/ungiTIL/blob/master/%2B%2B.Summary/2411/summary_1104.ipynb)
+### [03 Basic Syntax 02](https://github.com/ungit003/ungiTIL/blob/master/%2B%2B.Summary/2411/summary_1105.ipynb)
